@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wambugu71
-- 👀 I’m interested in AI,Ml, android dev
-- 🌱 I’m currently learning in the university
+- 👀 I’m interested in AI,Ml, android dev,data analytics
 - 💞️ I’m looking to collaborate on ML(data science)
+- Eager  to learn new machine  learning and deep learning  techniques
 - 📫 How to reach me kenliz1738@gmail.com
