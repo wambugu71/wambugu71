@@ -8,7 +8,6 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="profile-card">
-                    
                     <h2>Wambugu Kinyua</h2>
                     <p>Data Analyst | Machine Learning/ Deep learning |NLP| Computer vision| Mathematician| Business intelligence</p>
                     <p>Email: kenliz1738@gmail.com</p>
