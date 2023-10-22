@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="profile-card">
-                    <img src="ken.jpg" alt="Profile Image" class="profile-image" height="50" width="50" style="border-radius: 50%">
+                    
                     <h2>Wambugu Kinyua</h2>
                     <p>Data Analyst | Machine Learning/ Deep learning |NLP| Computer vision| Mathematician| Business intelligence</p>
                     <p>Email: kenliz1738@gmail.com</p>
