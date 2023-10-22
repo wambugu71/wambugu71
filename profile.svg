@@ -1,0 +1,44 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+ <html>     
+<head>
+    <title>Profile</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .profile-card {
+            background-color: #f0f0f0;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .profile-image {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="profile-card">
+                    <img src="ken.jpg" alt="Profile Image" class="profile-image">
+                    <h2>Wambugu Kinyua</h2>
+                    <p>Data Analyst | Machine Learning/ Deep learning |NLP| Computer vision| Mathematician| Business intelligence</p>
+                    <p>Email: kenliz1738@gmail.com</p>
+                    <p>Twitter 𝕏: <a href="https://x.com/kenliz1738?s=09">𝕏 Profile</a></p>
+                    <p>GitHub: <a href="https://github.com/wambugu71">GitHub Profile</a></p>
+                    <!-- Add more information as needed -->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+      
+  </foreignObject>
+</svgg
