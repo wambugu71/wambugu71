@@ -1,28 +1,7 @@
 [](./ken.svg)
-
-
-
-
-
-
 <html>
 <head>
-    <title>Profile</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <style>
-        .profile-card {
-            background-color: #f0f0f0;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .profile-image {
-            border-radius: 50%;
-            width: 150px;
-            height: 150px;
-            object-fit: cover;
-        }
-    </style>
+    
 </head>
 <body>
     <div class="container mt-5">
