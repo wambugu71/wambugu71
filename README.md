@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="profile-card">
-                    <p>Data Analyst | Machine Learning/ Deep learning |NLP| Computer vision| Mathematician| Business intelligence</p>
+                    <p>Data Analyst | Machine Learning/ Deep learning |NLP| Computer vision| Mathematician| Mathematical modelling| Operation research analyst|Business intelligence</p>
                     <p>Email: kenliz1738@gmail.com</p>
                     <p>Twitter 𝕏: <a href="https://x.com/kenliz1738?s=09">𝕏 Profile</a></p>
                     <p>GitHub: <a href="https://github.com/wambugu71">GitHub Profile</a></p>
