@@ -9,6 +9,7 @@
                     <p>Email: kenliz1738@gmail.com</p>
                     <p>Twitter 𝕏: <a href="https://x.com/kenliz1738?s=09">𝕏 Profile</a></p>
                     <p>GitHub: <a href="https://github.com/wambugu71">GitHub Profile</a></p>
+                    <p>Website: <a href ="https://wambugu71.github.io/wambugu" > Personal Info</a></p>
                 </div>
             </div>
         </div>
@@ -27,4 +28,5 @@
   alt="R"
   width="40" height="40" />
 </a> </p>
+<p>I want to express my heartfelt gratitude for taking the time to explore my  projects and  information.</p>
 
