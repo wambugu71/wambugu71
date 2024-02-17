@@ -1,4 +1,4 @@
-![ ](./ken.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&multiline=true&repeat=false&random=false&width=435&lines=Hey+%F0%9F%96%90+Kennedy+Wambugu+Kinyua+;+A+Data+Scientist+in+the++make;+Mathematical+++Modeller)](https://git.io/typing-svg)
 <html>
 <body>
     <div class="container mt-5">
