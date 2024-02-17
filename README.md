@@ -31,7 +31,8 @@
   width="40" height="40" />
 </a>
   <img  src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg"   width="40" height="40"  alt="streamlit"/>
-   <img  src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"   width="40" height="40"  alt="streamlit"/>
+   <img  src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"   width="50" height="40"  alt="Bi"/>
+<img  src="https://gitlab.com/monopolies/monopolies.net/-/blob/master/logos/salesforce/Tableau_logo.svg"   width="50" height="40"  alt="Bi"/>
 
 </p>
 
