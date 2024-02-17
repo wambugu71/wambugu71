@@ -1,4 +1,4 @@
-![image](https://github.com/wambugu71/wambugu71/assets/95144881/362dcc15-4182-4558-a1be-d950f85c0c75)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&multiline=true&random=false&width=700&height=100&lines=Hey%F0%9F%96%90+am+Kennedy+Wambugu+Kinyua+;+A+Data+Scientist+in+the++make;Mathematical+++Modeller+%7C+Bussiness+Analyst+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&multiline=true&random=false&width=700&height=100&lines=Hey%F0%9F%96%90+am+Kennedy+Wambugu+Kinyua+;+A+Data+Scientist+in+the++make;Mathematical+++Modeller+%7C+Bussiness+Analyst+)](https://git.io/typing-svg)
 
 ![](https://github-stats-alpha.vercel.app/api?username=Wambugu71) ![](https://github-readme-streak-stats.herokuapp.com/?user=Wambugu71&)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Wambugu71&show_icons=true&locale=en&layout=compact) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wambugu71&theme=dracula) 
