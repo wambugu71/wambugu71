@@ -30,6 +30,7 @@
   alt="Plotly"
   width="40" height="40" />
 </a>
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg"   width="40" height="40"  alt="streamlit"/>
 </p>
 
 
