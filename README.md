@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&multiline=true&repeat=false&random=false&width=435&lines=Hey%F0%9F%96%90+am+Kennedy+Wambugu+Kinyua+;+A+Data+Scientist+in+the++make%2C+Mathematical+++Modeller)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&multiline=true&random=false&width=700&height=500&lines=Hey%F0%9F%96%90+am+Kennedy+Wambugu+Kinyua+;+A+Data+Scientist+in+the++make;Mathematical+++Modeller+%7C+Bussiness+Analyst+)](https://git.io/typing-svg)
 <html>
 <body>
     <div class="container mt-5">
