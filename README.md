@@ -1,7 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&multiline=true&random=false&width=700&height=100&lines=Hey%F0%9F%96%90+am+Kennedy+Wambugu+Kinyua+;+A+Data+Scientist+in+the++make;Mathematical+++Modeller+%7C+Bussiness+Analyst+)](https://git.io/typing-svg)
-<a href="https://github.com/Wambugu71">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Wambugu71">
-</a>
+<div style="display: flex;">
+  <div style="flex: 1;">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Wambugu71">
+  </div>
+  <div style="flex: 1;">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wambugu71&show_icons=true&locale=en&layout=compact" alt="Wambugu kinyua" />
+ 
+  </div>
+</div>
 
 <html>
 <body>
@@ -20,8 +26,6 @@
     </div>
 </body>
 </html>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wambugu71&show_icons=true&locale=en&layout=compact" alt="Wambugu kinyua" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wambugu71&" alt="Wambugu Kinyua" /></p>
 
