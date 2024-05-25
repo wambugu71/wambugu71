@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="profile-card">
-                    <p>  Lets try the  introduction  again😁...Hey  🖐, Hear me, citizens of the digital domain! I am PythonMan, a legendary code-wielding hero born from the venomous embrace of a radioactive serpent. Once a humble teenager to  a python tech & Analytics Data  Science `Maestro` , I now stand as a beacon of hope, protecting the world's precious data with my extraordinary powers. Together, we'll conquer the challenges that lie ahead in this ever-evolving digital landscape. So, let's dive into the unknown, for I am PythonMan, and the code is my ally! 💻🐍</p>
+                   
                     <p>Email: kenliz1738@gmail.com</p>
                     <p>Twitter 𝕏: <a href="https://x.com/kenliz1738?s=09">𝕏 Profile</a></p>
                     <p>GitHub: <a href="https://github.com/wambugu71">GitHub Profile</a></p>
