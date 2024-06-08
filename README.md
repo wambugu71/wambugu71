@@ -37,5 +37,5 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wambugu71&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wambugu71&theme=dracula)
-<p>I want to express my heartfelt gratitude for taking the time to explore my  projects and  information.</p>
+<p>Thank you.</p>
 
