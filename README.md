@@ -37,5 +37,10 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wambugu71&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wambugu71&theme=dracula)
-<p>Thank you.</p>
+
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
