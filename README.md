@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Wambugu71&show_icons=true&locale=en&layout=compact) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wambugu71&theme=dracula) 
   </div>
 </div>
-[![committers.top badge](https://user-badge.committers.top/kenya/wambugu71.svg)](https://user-badge.committers.top/kenya/wambugu71)
+[![committers.top badge](https://user-badge.committers.top/kenya/Wambugu71.svg)](https://user-badge.committers.top/kenya/Wambugu71)
 <html>
 <body>
     <div class="container mt-5">
