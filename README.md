@@ -1,4 +1,4 @@
-<div id="badges" align="center">
+<div id="badges" align="center"> 
   <a href="wambugu71">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
