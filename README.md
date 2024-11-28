@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-</div>
 <div id="badges" align="center">
   <a href="wambugu71">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=PixerJason&style=flat-square&color=blue" alt="" align="center"/>
+<img src="https://komarev.com/ghpvc/?username=Wambugu71&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&multiline=true&random=false&width=700&height=100&lines=Hey%F0%9F%96%90+am+Kennedy+Wambugu+Kinyua+;+A+Data+Scientist+in+the++make;Mathematical+++Modeller+%7C+Bussiness+Analyst+)](https://git.io/typing-svg)
