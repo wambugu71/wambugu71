@@ -1,11 +1,11 @@
 <div id="badges" align="center"> 
-  <a href="wambugu71">
+  <a href="www.linkedin.com/in/wambugu-kinyua-1b362b26b">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/wambugu71">
     <img src="https://img.shields.io/badge/GitHub-black?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
-  <a href="Wambugu71">
+  <a href="https://twitter.com/kenliz1738">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://t.me/wambugu_kinyua">
