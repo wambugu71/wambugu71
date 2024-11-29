@@ -15,6 +15,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Wambugu71&style=flat-square&color=blue" alt="" align="center"/>
 </div>
+
 ### :man_technologist: About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&multiline=true&random=false&width=700&height=100&lines=Hey%F0%9F%96%90+am+Kennedy+Wambugu+Kinyua+;+A+Data+Scientist+in+the++make;Mathematical+++Modeller+%7C+Bussiness+Analyst+)](https://git.io/typing-svg)
 
