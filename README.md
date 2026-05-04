@@ -64,9 +64,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wambugu71&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wambugu71&theme=dracula)
 
-
+## A random joke
 <div align="center">
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+<div/>
 
