@@ -65,8 +65,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wambugu71&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wambugu71&theme=dracula)
 
 ## A random joke
-<div align="center">
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-<div/>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
